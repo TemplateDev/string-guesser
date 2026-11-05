@@ -1,7 +1,7 @@
 [project]
 name = "string-guesser"
 version = "0.1.0"
-description = "Add your description here"
+description = "A command-line genetic algorithm that searches for a matching string."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
